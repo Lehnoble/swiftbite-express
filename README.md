@@ -2,6 +2,7 @@
 
 SwiftBite Express is a React and TypeScript food delivery website UI. It includes restaurant discovery, menu browsing, cart, and orders screens using demo data.
 
+Live DEMO- https://swiftbite-express.netlify.app/
 ## What is inside
 
 Pages
